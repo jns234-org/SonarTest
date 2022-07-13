@@ -1,0 +1,27 @@
+{
+  "name": "sonartest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jns234-org/SonarTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jns234-org/SonarTest/issues"
+  },
+  "homepage": "https://github.com/jns234-org/SonarTest#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "typescript": "^4.7.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.3"
+  }
+}
